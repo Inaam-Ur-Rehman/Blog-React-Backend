@@ -1,0 +1,18 @@
+.desccription__header{
+    font-size: 30px;
+    font-family: MD Primer Bold,Rubik,Lato,Lucida Grande,Lucida Sans Unicode,Tahoma,Sans-Serif;
+    color: white;
+    max-width: 65vw;
+    margin-left: 60px;
+    margin-top: 60px;
+    /* background-color: antiquewhite; */
+}
+.description__info{
+    font-size: 25px;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 40px;
+    max-width: 65vw;
+    padding: 30px;
+    margin-left: 60px;
+}
